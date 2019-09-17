@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567340088 source:c:\users\c\desktop\algorithm\너비우선탐색(breathfirstsearch)\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+
